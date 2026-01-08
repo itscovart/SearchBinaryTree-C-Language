@@ -12,7 +12,7 @@ typedef char boleano;
 
 typedef struct elemento{
   char palabra[word_max];
-  char palabra[def_max];
+  char definicion[def_max];
 } elemento;
 
 typedef struct nodo{
